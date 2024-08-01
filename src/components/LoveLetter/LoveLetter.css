@@ -44,7 +44,7 @@
     left: 0;
     width: 100%;
     height: 50%;
-    background-image: url(bg.jpg);
+    background: mistyrose;
     overflow: hidden;
     transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1);
     transform-origin: bottom;
